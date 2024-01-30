@@ -1756,14 +1756,15 @@ textarea.w-select {
   display: inline-block;
   vertical-align: top;
   text-decoration: none;
-  padding: 9px 30px;
+  padding: 9px 10px;
+  margin-top: 5px;
   text-align: left;
   cursor: pointer;
   color: #222222;
   background-color: #dddddd;
 }
 .w-tab-link.w--current {
-  background-color: #C8C8C8;
+  background-color: #89cde2;
 }
 .w-tab-link:focus {
   outline: 0;
